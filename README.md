@@ -92,6 +92,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/360Parminder/360Parminder/output/snake.svg" alt="Snake animation" />
-
 ###
