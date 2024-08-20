@@ -1,94 +1,66 @@
 
-###
+<img src="https://github.com/aayushchugh/aayushchugh/assets/69336518/e6736354-f6c6-4b84-b541-72ffc932814e" />
 
-<h1 align="center">hey there 👋</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Parminder Singh
+===================================================================================================================================
 
-###
+Passionate Frontend Web & App developer from India. On way to master Programming.
 
-<h3 align="left">👩‍💻  About Me</h3>
+## About Me
 
-###
+Hey there! I’m a Frontend Web & App Developer from Rajasthan, India, trying to make the internet a bit cooler one website at a time. My job is to create fancy, user-friendly digital stuff, and I’ve done a bunch of projects that show off my skills and creative ideas. Or at least, that’s what I tell people.
 
-<h2 align="left">I'm Parminder Singh from INDIA<br><br>- 🔭 I’m working as Front-end Devloper<br>- 📚 I'm currently learning Next.js<br>- ⚡ In my free time I Code</h2>
+**Leadership and Community Involvement:**
 
-###
+In the GDSC Hackathon, I led my team to the finals, demonstrating that under pressure, our coding skills and teamwork shine through. Similarly, in Kriyeta 3.0, our team as one of the top 2 out of 573 participants across India for the offline battle, proving our innovation and collaborative prowess. Beyond competitions, my sports achievements add to my leadership and teamwork skills: I've secured a silver medal in badminton singles, gold medals in football and basketball, and a silver in volleyball. Each of these experiences has taught me valuable lessons in strategy, perseverance, and the art of working together effectively.
 
-<br clear="both">
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/parminder-singh-storm/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="360.parminder@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+**Personal Interests:**
 
-###
+When I’m not glued to my computer screen, you’ll find me strumming my _guitar_. It’s my escape from the tech world, even if I’m not quite a rock star yet. Playing music helps me relax and keeps me from going crazy with all the coding.
 
-<h3 align="left">🛠 Language and tools</h3>
+I am committed to blending technical expertise with creativity in every project, ensuring functional, engaging, and user-centric outcomes. I look forward to embracing new challenges and opportunities in the ever-evolving field of web & App development.
 
-###
+**About my work**
+
+Let’s get down to the fun stuff! I’m all about working on open-source projects and connecting with folks who geek out over the same things I do. There’s nothing like a good collab to spark some magic. I also work as a freelancer, which gives me the freedom to tackle a variety of exciting projects. One of my proudest achievements is creating a Health Tracking App called [_Swasthya_]. It’s a sleek, user-friendly platform that helps people to track health without the hassle.
+
+**Let’s make the web & App a more exciting place, one quirky line of code at a time!**
+
+ ✉️  You can contact me at [360.parminder@gmail.com](mailto:360.parminder@gmail.com)
+ <br />
+ 🚀  I'm currently working on [Aura](https://github.com/360Parminder/Aura-Frontend)
+ <br />
+ 💡I'm currently learning Next.js
+<br>
+
+### Skills
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
 </div>
 
-###
+### Socials
 
-<h3 align="left">🔥   My Stats :</h3>
+<p align="left"> <a href="https://x.com/360parminder" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushchugh2006" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/parminder-singh-storm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushchugh2006" height="30" width="40" /></a>
+<a href="https://www.instagram.com/360_parminder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aayushchugh_" height="30" width="40" /></a>
+<a href="https://medium.com/@360Parminder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ayushchugh2006" height="30" width="40" /></a></p>
 
-###
+### GitHub Stats
 
-<br clear="both">
+[![trophy](https://github-profile-trophy.vercel.app/?username=360Parminder)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=360Parminder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=360Parminder&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=360Parminder&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <div style="display: flex;">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=360Parminder&count_private=true&show_icons=true" alt="Parminder's GitHub stats" />
+    
+  <img width="401" src="https://streak-stats.demolab.com/?user=360Parminder&ring=5094F0&fire=5094F0&currStreakLabel=5094F0" />
+  </div>
 </div>
-
-###
-
-###
