@@ -49,9 +49,9 @@ Let’s get down to the fun stuff! I’m all about working on open-source projec
 ### Socials
 
 <p align="left"> <a href="https://x.com/360parminder" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushchugh2006" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/parminder-singh-storm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushchugh2006" height="30" width="40" /></a>
-<a href="https://www.instagram.com/360_parminder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aayushchugh_" height="30" width="40" /></a>
-<a href="https://medium.com/@360Parminder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ayushchugh2006" height="30" width="40" /></a></p>
+<a href="https://www.linkedin.com/in/parminder-singh-storm/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushchugh2006" height="30" width="40" /></a>
+<a href="https://www.instagram.com/360_parminder/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aayushchugh_" height="30" width="40" /></a>
+<a href="https://medium.com/@360Parminder" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ayushchugh2006" height="30" width="40" /></a></p>
 
 ### GitHub Stats
 
