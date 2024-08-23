@@ -1,5 +1,5 @@
 
-<img src="https://github.com/aayushchugh/aayushchugh/assets/69336518/e6736354-f6c6-4b84-b541-72ffc932814e" />
+<img src="https://github.com/user-attachments/assets/007114f5-68fe-426a-addb-3e54e442ffb9" />
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Parminder Singh
 ===================================================================================================================================
