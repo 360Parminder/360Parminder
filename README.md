@@ -14,7 +14,6 @@ Hey there! I’m a Frontend Web & App Developer from Rajasthan, India, trying to
 
 In the GDSC Hackathon, I led my team to the finals, demonstrating that under pressure, our coding skills and teamwork shine through. Similarly, in Kriyeta 3.0, our team as one of the top 2 out of 573 participants across India for the offline battle, proving our innovation and collaborative prowess. Beyond competitions, my sports achievements add to my leadership and teamwork skills: I've secured a silver medal in badminton singles, gold medals in football and basketball, and a silver in volleyball. Each of these experiences has taught me valuable lessons in strategy, perseverance, and the art of working together effectively.
 
-
 **Personal Interests:**
 
 When I’m not glued to my computer screen, you’ll find me strumming my _guitar_. It’s my escape from the tech world, even if I’m not quite a rock star yet. Playing music helps me relax and keeps me from going crazy with all the coding.
