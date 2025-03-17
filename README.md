@@ -7,7 +7,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Passionate Frontend Web & App developer from India. On way to master Programming.
 
 ## About Me
-
 Hey there! I’m a Frontend Web & App Developer from Rajasthan, India, trying to make the internet a bit cooler one website at a time. My job is to create fancy, user-friendly digital stuff, and I’ve done a bunch of projects that show off my skills and creative ideas. Or at least, that’s what I tell people.
 
 **Leadership and Community Involvement:**
