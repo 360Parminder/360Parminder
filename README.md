@@ -27,7 +27,7 @@ Let’s get down to the fun stuff! I’m all about working on open-source projec
 
  ✉️  You can contact me at [360.parminder@gmail.com](mailto:360.parminder@gmail.com)
  <br />
- 🚀  I'm currently working on [Swasthya](https://github.com/360Parminder/Swasthya)
+ 🚀  I'm currently working on [Rajdoot](https://github.com/360Parminder/Rajdoot)
  <br />
  💡I'm currently learning Next.js
 <br>
